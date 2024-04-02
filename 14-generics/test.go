@@ -51,7 +51,7 @@ func main() {
 //	SetID(string)
 //}
 
-//func Create[T Request, TPtr SetIDPtr[T]](elem string) *T {
+//func Create[T Request, RequestPtr SetIDPtr[T]](elem string) *T {
 //	var data T
 //	dataPtr := TPtr(&data)
 //	dataPtr.SetID(elem)
